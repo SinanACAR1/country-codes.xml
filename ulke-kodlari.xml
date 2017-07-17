@@ -1,0 +1,1695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Countries>
+
+<Afghanistan>
+<code>93</code>
+<isocode>AF / AFG</isocode>
+<population>29.121.286</population>
+<areakm>647.500</areakm>
+</Afghanistan>
+
+<Albania>
+<code>355</code>
+<isocode>AL / ALB</isocode>
+<population>2.986.952</population>
+<areakm>28.748</areakm>
+</Albania>
+
+<Algeria>
+<code>213</code>
+<isocode>DZ / DZA</isocode>
+<population>34.586.184</population>
+<areakm>2.381.740</areakm>
+</Algeria>
+
+<American-Samoa>
+<code>1-684</code>
+<isocode>AS / ASM</isocode>
+<population>57.881</population>
+<areakm>199</areakm>
+</American-Samoa>
+
+<Andorra>
+<code>376</code>
+<isocode>AD / AND</isocode>
+<population>84.000</population>
+<areakm>468</areakm>
+</Andorra>
+
+<Angola>
+<code>244</code>
+<isocode>AO / AGO</isocode>
+<population>13.068.161</population>
+<areakm>1.246.700</areakm>
+</Angola>
+
+<Anguilla>
+<code>1-264</code>
+<isocode>AI / AIA</isocode>
+<population>13.254</population>
+<areakm>102</areakm>
+</Anguilla>
+
+<Antarctica>
+<code>672</code>
+<isocode>AQ / ATA</isocode>
+<population>0</population>
+<areakm>14.000.000</areakm>
+</Antarctica>
+
+<Antigua-And-Barbuda>
+<code>1-268</code>
+<isocode>AG / ATG</isocode>
+<population>86.754</population>
+<areakm>443</areakm>
+</Antigua-And-Barbuda>
+
+<Argentina>
+<code>54</code>
+<isocode>AR / ARG</isocode>
+<population>41.343.201</population>
+<areakm>2.766.890</areakm>
+</Argentina>
+
+<Armenia>
+<code>374</code>
+<isocode>AM / ARM</isocode>
+<population>2.968.000</population>
+<areakm>229.800</areakm>
+</Armenia>
+
+<Aruba>
+<code>297</code>
+<isocode>AW / ABW</isocode>
+<population>71.566</population>
+<areakm>193</areakm>
+</Aruba>
+
+<Australia>
+<code>61</code>
+<isocode>AU / AUS</isocode>
+<population>21.515.754</population>
+<areakm>7.686.850</areakm>
+</Australia>
+
+<Austria>
+<code>43</code>
+<isocode>AT / AUT</isocode>
+<population>8.205.000</population>
+<areakm>83.858</areakm>
+</Austria>
+
+<Azerbaijan>
+<code>994</code>
+<isocode>AZ / AZE</isocode>
+<population>8.303.512</population>
+<areakm>86.600</areakm>
+</Azerbaijan>
+
+<Bahamas>
+<code>1-242</code>
+<isocode>BS / BHS</isocode>
+<population>301.790</population>
+<areakm>13.940</areakm>
+</Bahamas>
+
+<Bahrain>
+<code>973</code>
+<isocode>BH / BHR</isocode>
+<population>738.004</population>
+<areakm>665</areakm>
+</Bahrain>
+
+<Bangladesh>
+<code>880</code>
+<isocode>BD / BGD</isocode>
+<population>156.118.464</population>
+<areakm>144.000</areakm>
+</Bangladesh>
+
+<Barbados>
+<code>1-246</code>
+<isocode>BB / BRB</isocode>
+<population>285.653</population>
+<areakm>431</areakm>
+</Barbados>
+
+<Belarus>
+<code>375</code>
+<isocode>BY / BLR</isocode>
+<population>9.685.000</population>
+<areakm>207.600</areakm>
+</Belarus>
+
+<Belgium>
+<code>32</code>
+<isocode>BE / BEL</isocode>
+<population>10.403.000</population>
+<areakm>30.510</areakm>
+</Belgium>
+
+<Belize>
+<code>501</code>
+<isocode>BZ / BLZ</isocode>
+<population>314.522</population>
+<areakm>22.966</areakm>
+</Belize>
+
+<Benin>
+<code>229</code>
+<isocode>BJ / BEN</isocode>
+<population>9.056.010</population>
+<areakm>112.620</areakm>
+</Benin>
+
+<Bermuda>
+<code>1-441</code>
+<isocode>BM / BMU</isocode>
+<population>65.365</population>
+<areakm>53</areakm>
+</Bermuda>
+
+<Bhutan>
+<code>Bhutan</code>
+<isocode>BT / BTN</isocode>
+<population>699.847</population>
+<areakm>47.000</areakm>
+</Bhutan>
+
+<Bolivia>
+<code>591</code>
+<isocode>BO / BOL</isocode>
+<population>9.947.418</population>
+<areakm>1.098.580</areakm>
+</Bolivia>
+
+<Bosnia-And-Herzegovina>
+<code>387</code>
+<isocode>BA / BIH</isocode>
+<population>4.590.000</population>
+<areakm>51.129</areakm>
+</Bosnia-And-Herzegovina>
+
+<Botswana>
+<code>267</code>
+<isocode>BW / BWA</isocode>
+<population>2.029.307</population>
+<areakm>600.370</areakm>
+</Botswana>
+
+<Brazil>
+<code>55</code>
+<isocode>BR / BRA</isocode>
+<population>201.103.330</population>
+<areakm>8.511.965</areakm>
+</Brazil>
+
+<British-Indian-Ocean-Territory>
+<code>246</code>
+<isocode>IO / IOT</isocode>
+<population>4.000</population>
+<areakm>60</areakm>
+</British-Indian-Ocean-Territory>
+
+<British-Virgin-Islands>
+<code>1-284</code>
+<isocode>VG / VGB</isocode>
+<population>21.730</population>
+<areakm>153</areakm>
+</British-Virgin-Islands>
+
+<Bruneis>
+<code>673</code>
+<isocode>BN / BRN</isocode>
+<population>395.027</population>
+<areakm>5.770</areakm>
+</Bruneis>
+
+<Bulgaria>
+<code>359</code>
+<isocode>BG / BGR</isocode>
+<population>7.148.785</population>
+<areakm>110.910</areakm>
+</Bulgaria>
+
+<Burkina-Faso>
+<code>226</code>
+<isocode>BF / BFA</isocode>
+<population>16.241.811</population>
+<areakm>274.200</areakm>
+</Burkina-Faso>
+
+<Burundi>
+<code>257</code>
+<isocode>BI / BDI</isocode>
+<population>9.863.117</population>
+<areakm>27.830</areakm>
+</Burundi>
+
+<Cambodia>
+<code>855</code>
+<isocode>KH / KHM</isocode>
+<population>14.453.680</population>
+<areakm>181.040</areakm>
+</Cambodia>
+
+<Cameroon>
+<code>237</code>
+<isocode>CM / CMR</isocode>
+<population>19.294.149</population>
+<areakm>475.440</areakm>
+</Cameroon>
+
+<Canada>
+<code>1</code>
+<isocode>CA / CAN</isocode>
+<population>33.679.000</population>
+<areakm>9.984.670</areakm>
+</Canada>
+
+<Cape-Verde>
+<code>238</code>
+<isocode>CV / CPV</isocode>
+<population>508.659</population>
+<areakm>4.033</areakm>
+</Cape-Verde>
+
+<Cayman-Islands>
+<code>1-345</code>
+<isocode>KY / CYM</isocode>
+<population>44.270</population>
+<areakm>262</areakm>
+</Cayman-Islands>
+
+<Central-African-Republic>
+<code>236</code>
+<isocode>CF / CAF</isocode>
+<population>4.844.927</population>
+<areakm>622.984</areakm>
+</Central-African-Republic>
+
+<Chad>
+<code>235</code>
+<isocode>TD / TCD</isocode>
+<population>10.543.464</population>
+<areakm>1.284.000</areakm>
+</Chad>
+
+<Chile>
+<code>56</code>
+<isocode>CL / CHL</isocode>
+<population>16.746.491</population>
+<areakm>756.950</areakm>
+</Chile>
+
+<China>
+<code>86</code>
+<isocode>CN / CHN</isocode>
+<population>1.330.044.000</population>
+<areakm>9.596.960</areakm>
+</China>
+
+<Christmas-Island>
+<code>61</code>
+<isocode>CX / CXR</isocode>
+<population>1.500</population>
+<areakm>135</areakm>
+</Christmas-Island>
+
+<Cocos-Islands>
+<code>891</code>
+<isocode>CC / CCK</isocode>
+<population>628</population>
+<areakm>14</areakm>
+</Cocos-Islands>
+
+<Colombia>
+<code>57</code>
+<isocode>CO / COL</isocode>
+<population>47.790.000</population>
+<areakm>1.138.910</areakm>
+</Colombia>
+
+<Comoros>
+<code>269</code>
+<isocode>KM / COM</isocode>
+<population>773.407</population>
+<areakm>2.170</areakm>
+</Comoros>
+
+<Cook-Islands>
+<code>682</code>
+<isocode>CK / COK</isocode>
+<population>21.388</population>
+<areakm>240</areakm>
+</Cook-Islands>
+
+<Costa-Rica>
+<code>506</code>
+<isocode>CR / CRI</isocode>
+<population>4.516.220</population>
+<areakm>51.100</areakm>
+</Costa-Rica>
+
+<Croatia>
+<code>385</code>
+<isocode>HR / HRV</isocode>
+<population>4.491.000</population>
+<areakm>56.542</areakm>
+</Croatia>
+
+<Cuba>
+<code>53</code>
+<isocode>CU / CUB</isocode>
+<population>11.423.000</population>
+<areakm>110.860</areakm>
+</Cuba>
+
+<Curacao>
+<code>599</code>
+<isocode>CW / CUW</isocode>
+<population>141.766</population>
+<areakm>444</areakm>
+</Curacao>
+
+<Cyprus>
+<code>357</code>
+<isocode>CY / CYP</isocode>
+<population>1.102.677</population>
+<areakm>9.250</areakm>
+</Cyprus>
+
+<Czech-Republic>
+<code>420</code>
+<isocode>CZ / CZE</isocode>
+<population>10.476.000</population>
+<areakm>78.866</areakm>
+</Czech-Republic>
+
+<Democratic-Republic-of-the-Congo>
+<code>243</code>
+<isocode>CD / COD</isocode>
+<population>70.916.439</population>
+<areakm>2.345.410</areakm>
+</Democratic-Republic-of-the-Congo>
+
+<Denmark>
+<code>45</code>
+<isocode>DK / DNK</isocode>
+<population>5.484.000</population>
+<areakm>43.094</areakm>
+</Denmark>
+
+<Djibouti>
+<code>253</code>
+<isocode>DJ / DJI</isocode>
+<population>740.528</population>
+<areakm>23.000</areakm>
+</Djibouti>
+
+<Dominica>
+<code>1-767</code>
+<isocode>DM / DMA</isocode>
+<population>72.813</population>
+<areakm>754</areakm>
+</Dominica>
+
+<Dominican-Republic>
+<code>1-809, 1-829, 1-849</code>
+<isocode>DO / DOM</isocode>
+<population>9.823.821</population>
+<areakm>48.730</areakm>
+</Dominican-Republic>
+
+<East-Timor>
+<code>670</code>
+<isocode>TL / TLS</isocode>
+<population>1.154.625</population>
+<areakm>15.007</areakm>
+</East-Timor>
+
+<Ecuador>
+<code>593</code>
+<isocode>EC / ECU</isocode>
+<population>14.790.608</population>
+<areakm>283.560</areakm>
+</Ecuador>
+
+<Egypt>
+<code>20</code>
+<isocode>EG / EGY</isocode>
+<population>80.471.869</population>
+<areakm>1.001.450</areakm>
+</Egypt>
+
+<El-Salvador>
+<code>503</code>
+<isocode>SV / SLV</isocode>
+<population>6.052.064</population>
+<areakm>21.040</areakm>
+</El-Salvador>
+
+<Equatorial-Guinea>
+<code>240</code>
+<isocode>GQ / GNQ</isocode>
+<population>1.014.999</population>
+<areakm>28.051</areakm>
+</Equatorial-Guinea>
+
+<Eritrea>
+<code>291</code>
+<isocode>ER / ERI</isocode>
+<population>5.792.984</population>
+<areakm>121.320</areakm>
+</Eritrea>
+
+<Estonia>
+<code>372</code>
+<isocode>EE / EST</isocode>
+<population>1.291.170</population>
+<areakm>45.226</areakm>
+</Estonia>
+
+<Ethiopia>
+<code>251</code>
+<isocode>ET / ETH</isocode>
+<population>88.013.491</population>
+<areakm>1.127.127</areakm>
+</Ethiopia>
+
+<Falkland-Islands>
+<code>500</code>
+<isocode>FK / FLK</isocode>
+<population>2.638</population>
+<areakm>12.173</areakm>
+</Falkland-Islands>
+
+<Faroe-Islands>
+<code>298</code>
+<isocode>FO / FRO</isocode>
+<population>48.228</population>
+<areakm>1.399</areakm>
+</Faroe-Islands>
+
+<Fiji>
+<code>679</code>
+<isocode>FJ / FJI</isocode>
+<population>875.983</population>
+<areakm>18.270</areakm>
+</Fiji>
+
+<Finland>
+<code>358</code>
+<isocode>FI / FIN</isocode>
+<population>5.244.000</population>
+<areakm>337.030</areakm>
+</Finland>
+
+<France>
+<code>33</code>
+<isocode>FR / FRA</isocode>
+<population>64.768.389</population>
+<areakm>547.030</areakm>
+</France>
+
+<French-Polynesia>
+<code>689</code>
+<isocode>PF / PYF</isocode>
+<population>270.485</population>
+<areakm>4.167</areakm>
+</French-Polynesia>
+
+<Gabon>
+<code>241</code>
+<isocode>GA / GAB</isocode>
+<population>1.545.255</population>
+<areakm>267.667</areakm>
+</Gabon>
+
+<Gambia>
+<code>220</code>
+<isocode>GM / GMB</isocode>
+<population>1.593.256</population>
+<areakm>11.300</areakm>
+</Gambia>
+
+<Georgia>
+<code>995</code>
+<isocode>GE / GEO</isocode>
+<population>4.630.000</population>
+<areakm>69.700</areakm>
+</Georgia>
+
+<Germany>
+<code>49</code>
+<isocode>DE / DEU</isocode>
+<population>81.802.257</population>
+<areakm>357.021</areakm>
+</Germany>
+
+<Ghana>
+<code>233</code>
+<isocode>GH / GHA</isocode>
+<population>24.339.838</population>
+<areakm>239.460</areakm>
+</Ghana>
+
+<Gibraltar>
+<code>350</code>
+<isocode>GI / GIB</isocode>
+<population>27.884</population>
+<areakm>7</areakm>
+</Gibraltar>
+
+<Gibraltar>
+<code>350</code>
+<isocode>GI / GIB</isocode>
+<population>32.217</population>
+<areakm>7</areakm>
+</Gibraltar>
+
+<Greece>
+<code>30</code>
+<isocode>GR / GRC</isocode>
+<population>11.000.000</population>
+<areakm>131.940</areakm>
+</Greece>
+
+<Greenland>
+<code>299</code>
+<isocode>GL / GRL</isocode>
+<population>56.375</population>
+<areakm>2.166.086</areakm>
+</Greenland>
+
+<Grenada>
+<code>1-473</code>
+<isocode>GD / GRD</isocode>
+<population>107.818</population>
+<areakm>344</areakm>
+</Grenada>
+
+<Guam>
+<code>1-671</code>
+<isocode>GU / GUM</isocode>
+<population>159.358</population>
+<areakm>549</areakm>
+</Guam>
+
+<Guatemala>
+<code>502</code>
+<isocode>GT / GTM</isocode>
+<population>13.550.440</population>
+<areakm>108.890</areakm>
+</Guatemala>
+
+<Guernsey>
+<code>44-1481</code>
+<isocode>GG / GGY</isocode>
+<population>65.228</population>
+<areakm>78</areakm>
+</Guernsey>
+
+<Guinea>
+<code>224</code>
+<isocode>GN / GIN</isocode>
+<population>10.324.025</population>
+<areakm>245.857</areakm>
+</Guinea>
+
+<Guinea-Bissau>
+<code>245</code>
+<isocode>GW / GNB</isocode>
+<population>1.565.126</population>
+<areakm>36.120</areakm>
+</Guinea-Bissau>
+
+<Guyana>
+<code>592</code>
+<isocode>GY / GUY</isocode>
+<population>748.486</population>
+<areakm>214.970</areakm>
+</Guyana>
+
+<Haiti>
+<code>509</code>
+<isocode>HT / HTI</isocode>
+<population>9.648.924</population>
+<areakm>27.750</areakm>
+</Haiti>
+
+<Honduras>
+<code>504</code>
+<isocode>HN / HND</isocode>
+<population>7.989.415</population>
+<areakm>112.090</areakm>
+</Honduras>
+
+<Hong-Kong>
+<code>852</code>
+<isocode>HK / HKG</isocode>
+<population>6.898.686</population>
+<areakm>1.092</areakm>
+</Hong-Kong>
+
+<Hungary>
+<code>36</code>
+<isocode>HU / HUN</isocode>
+<population>9.982.000</population>
+<areakm>93.030</areakm>
+</Hungary>
+
+<Iceland>
+<code>354</code>
+<isocode>IS / ISL</isocode>
+<population>308.910</population>
+<areakm>103.000</areakm>
+</Iceland>
+
+<India>
+<code>91</code>
+<isocode>IN / IND</isocode>
+<population>1.173.108.018</population>
+<areakm>3.287.590</areakm>
+</India>
+
+<Indonesia>
+<code>62</code>
+<isocode>ID / IDN</isocode>
+<population>242.968.342</population>
+<areakm>1.919.440</areakm>
+</Indonesia>
+
+<Iran>
+<code>98</code>
+<isocode>IR / IRN</isocode>
+<population>76.923.300</population>
+<areakm>1.648.000</areakm>
+</Iran>
+
+<Iraq>
+<code>964</code>
+<isocode>IQ / IRQ</isocode>
+<population>29.671.605</population>
+<areakm>437.072</areakm>
+</Iraq>
+
+<Ireland>
+<code>353</code>
+<isocode>IE / IRL</isocode>
+<population>4.622.917</population>
+<areakm>70.280</areakm>
+</Ireland>
+
+<Isle-Of-Man>
+<code>44-1624</code>
+<isocode>IM / IMN</isocode>
+<population>75.049</population>
+<areakm>572</areakm>
+</Isle-Of-Man>
+
+#Be-Damned-israel
+<Israel>
+<code>972</code>
+<isocode>IL / ISR</isocode>
+<population>7.353.985</population>
+<areakm>20.770</areakm>
+</Israel>
+
+<Italy>
+<code>39</code>
+<isocode>IT / ITA</isocode>
+<population>60.340.328</population>
+<areakm>301.230</areakm>
+</Italy>
+
+<Ivory-Coast>
+<code>225</code>
+<isocode>CI / CIV</isocode>
+<population>21.058.798</population>
+<areakm>322.460</areakm>
+</Ivory-Coast>
+
+<Jamaica>
+<code>1-876</code>
+<isocode>JM / JAM</isocode>
+<population>2.847.232</population>
+<areakm>10.991</areakm>
+</Jamaica>
+
+<Japan>
+<code>81</code>
+<isocode>JP / JPN</isocode>
+<population>127.288.000</population>
+<areakm>377.835</areakm>
+</Japan>
+
+<Jersey>
+<code>44-1534</code>
+<isocode>JE / JEY</isocode>
+<population>90.812</population>
+<areakm>116</areakm>
+</Jersey>
+
+<Jordan>
+<code>962</code>
+<isocode>JO / JOR</isocode>
+<population>6.407.085</population>
+<areakm>92.300</areakm>
+</Jordan>
+
+<Kazakhstan>
+<code>7</code>
+<isocode>KZ / KAZ</isocode>
+<population>15.340.000</population>
+<areakm>2.717.300</areakm>
+</Kazakhstan>
+
+<Kenya>
+<code>254</code>
+<isocode>KE / KEN</isocode>
+<population>40.046.566</population>
+<areakm>2582.650</areakm>
+</Kenya>
+
+<Kiribati>
+<code>686</code>
+<isocode>KI / KIR</isocode>
+<population>92.533</population>
+<areakm>811</areakm>
+</Kiribati>
+
+<Kosovo>
+<code>383</code>
+<isocode>XK / XKX</isocode>
+<population>1.800.000</population>
+<areakm>10.887</areakm>
+</Kosovo>
+
+<Kuwait>
+<code>965</code>
+<isocode>KW / KWT</isocode>
+<population>2.789.132</population>
+<areakm>17.820</areakm>
+</Kuwait>
+
+<Kyrgyzstan>
+<code>996</code>
+<isocode>KG / KGZ</isocode>
+<population>5.508.626</population>
+<areakm>198.500</areakm>
+</Kyrgyzstan>
+
+<Laos>
+<code>856</code>
+<isocode>LA / LAO</isocode>
+<population>6.368.162</population>
+<areakm>236.800</areakm>
+</Laos>
+
+<Latvia>
+<code>371</code>
+<isocode>LV / LVA</isocode>
+<population>2.217.969</population>
+<areakm>64.589</areakm>
+</Latvia>
+
+<Lebanon>
+<code>961</code>
+<isocode>LB / LBN</isocode>
+<population>4.125.247</population>
+<areakm>10.400</areakm>
+</Lebanon>
+
+<Lesotho>
+<code>266</code>
+<isocode>LS / LSO</isocode>
+<population>1.919.552</population>
+<areakm>30.355</areakm>
+</Lesotho>
+
+<Liberia>
+<code>231</code>
+<isocode>LR / LBR</isocode>
+<population>3.685.076</population>
+<areakm>111.370</areakm>
+</Liberia>
+
+<Libya>
+<code>218</code>
+<isocode>LY / LBY</isocode>
+<population>6.461.454</population>
+<areakm>1.759.540</areakm>
+</Libya>
+
+<Liechtenstein>
+<code>423</code>
+<isocode>LI / LIE</isocode>
+<population>35.000</population>
+<areakm>160</areakm>
+</Liechtenstein>
+
+<Lithuania>
+<code>370</code>
+<isocode>LT / LTU</isocode>
+<population>2.944.459</population>
+<areakm>65.200</areakm>
+</Lithuania>
+
+<Luxembourg>
+<code>352</code>
+<isocode>LU / LUX</isocode>
+<population>497.538</population>
+<areakm>2.586</areakm>
+</Luxembourg>
+
+<Macau>
+<code>853</code>
+<isocode>MO / MAC</isocode>
+<population>449.198</population>
+<areakm>254</areakm>
+</Macau>
+
+<Macedonia>
+<code>389</code>
+<isocode>MK / MKD</isocode>
+<population>2.062.294</population>
+<areakm>25.333</areakm>
+</Macedonia>
+
+<Madagascar>
+<code>261</code>
+<isocode>MG / MDG</isocode>
+<population>21.281.844</population>
+<areakm>587.040</areakm>
+</Madagascar>
+
+<Malawi>
+<code>265</code>
+<isocode>MW / MWI</isocode>
+<population>15.447.500</population>
+<areakm>118.480</areakm>
+</Malawi>
+
+<Malaysia>
+<code>60</code>
+<isocode>MY / MYS</isocode>
+<population>28.274.729</population>
+<areakm>329.750</areakm>
+</Malaysia>
+
+<Maldives>
+<code>960</code>
+<isocode>MV / MDV</isocode>
+<population>395.650</population>
+<areakm>300</areakm>
+</Maldives>
+
+<Mali>
+<code>223</code>
+<isocode>ML / MLI</isocode>
+<population>13.796.354</population>
+<areakm>1.240.000</areakm>
+</Mali>
+
+<Malta>
+<code>356</code>
+<isocode>MT / MLT</isocode>
+<population>403.000</population>
+<areakm>316</areakm>
+</Malta>
+
+<Marshall-Islands>
+<code>692</code>
+<isocode>MH / MHL</isocode>
+<population>65.859</population>
+<areakm>181</areakm>
+</Marshall-Islands>	
+
+<Mauritania>
+<code>222</code>
+<isocode>MR / MRT</isocode>
+<population>3.205.060</population>
+<areakm>1.030.700</areakm>
+</Mauritania>	
+
+<Mauritius>
+<code>230</code>
+<isocode>MU / MUS</isocode>
+<population>1.294.104</population>
+<areakm>2.040</areakm>
+</Mauritius>	
+
+<Mayotte>
+<code>262</code>
+<isocode>YT / MYT</isocode>
+<population>159.042</population>
+<areakm>374</areakm>
+</Mayotte>	
+
+<Mexico>
+<code>52</code>
+<isocode>MX / MEX</isocode>
+<population>112.468.855</population>
+<areakm>1.972.550</areakm>
+</Mexico>
+
+<Micronesia>
+<code>691</code>
+<isocode>FM / FSM</isocode>
+<population>107.708</population>
+<areakm>702</areakm>
+</Micronesia>	
+
+<Moldova>
+<code>373</code>
+<isocode>MD / MDA</isocode>
+<population>4.324.000</population>
+<areakm>33.843</areakm>
+</Moldova>
+
+<Monaco>
+<code>377</code>
+<isocode>MC / MCO</isocode>
+<population>32.965</population>
+<areakm>2</areakm>
+</Monaco>
+
+<Mongolia>
+<code>976</code>
+<isocode>MN / MNG</isocode>
+<population>3.086.918</population>
+<areakm>1.565.000</areakm>
+</Mongolia>
+
+<Montenegro>
+<code>382</code>
+<isocode>ME / MNE</isocode>
+<population>666.730</population>
+<areakm>14.026</areakm>
+</Montenegro>
+
+<Montserrat>
+<code>1-664</code>
+<isocode>MS / MSR</isocode>
+<population>9.341</population>
+<areakm>102</areakm>
+</Montserrat>
+
+<Morocco>
+<code>212</code>
+<isocode>MA / MAR</isocode>
+<population>31.627.428</population>
+<areakm>446.550</areakm>
+</Morocco>
+
+<Mozambique>
+<code>258</code>
+<isocode>MZ / MOZ</isocode>
+<population>22.061.451</population>
+<areakm>801.590</areakm>
+</Mozambique>
+
+<Myanmar>
+<code>95</code>
+<isocode>MM / MMR</isocode>
+<population>53.414.374</population>
+<areakm>678.500</areakm>
+</Myanmar>
+
+<Namibia>
+<code>264</code>
+<isocode>NA / NAM</isocode>
+<population>2.128.471</population>
+<areakm>825.418</areakm>
+</Namibia>
+
+<Nauru>
+<code>674</code>
+<isocode>NR / NRU</isocode>
+<population>10.065</population>
+<areakm>21</areakm>
+</Nauru>
+
+<Nepal>
+<code>977</code>
+<isocode>NP / NPL</isocode>
+<population>28.951.852</population>
+<areakm>140.800</areakm>
+</Nepal>
+
+<Netherlands>
+<code>31</code>
+<isocode>NL / NLD</isocode>
+<population>16.645.000</population>
+<areakm>141.526</areakm>
+</Netherlands>
+
+<Netherlands-Antilles>
+<code>599</code>
+<isocode>AN / ANT</isocode>
+<population>136.197</population>
+<areakm>960</areakm>
+</Netherlands-Antilles>
+
+<New-Caledonia>
+<code>687</code>
+<isocode>NC / NCL</isocode>
+<population>216.494</population>
+<areakm>19.060</areakm>
+</New-Caledonia>
+
+<New-Zealand>
+<code>64</code>
+<isocode>NZ / NZL</isocode>
+<population>4.252.277</population>
+<areakm>268.680</areakm>
+</New-Zealand>
+
+<Nicaragua>
+<code>505</code>
+<isocode>NI / NIC</isocode>
+<population>5.995.928</population>
+<areakm>129.494</areakm>
+</Nicaragua>
+
+<Niger>
+<code>227</code>
+<isocode>NE / NER</isocode>
+<population>15.878.271</population>
+<areakm>1.267.000</areakm>
+</Niger>
+
+<Nigeria>
+<code>234</code>
+<isocode>NG / NGA</isocode>
+<population>154.000.000</population>
+<areakm>154.000.000</areakm>
+</Nigeria>
+
+<Niue>
+<code>683</code>
+<isocode>NU / NIU</isocode>
+<population>2.166</population>
+<areakm>260</areakm>
+</Niue>
+
+<North-Korea>
+<code>850</code>
+<isocode>KP / PRK</isocode>
+<population>22.912.177</population>
+<areakm>120.540</areakm>
+</North-Korea>
+
+<Northern-Mariana-Islands>
+<code>1-670</code>
+<isocode>MP / MNP</isocode>
+<population>53.883</population>
+<areakm>477</areakm>
+</Northern-Mariana-Islands>
+
+<Norway>
+<code>47</code>
+<isocode>NO / NOR</isocode>
+<population>5.009.150</population>
+<areakm>324.220</areakm>
+</Norway>
+
+<Oman>
+<code>968</code>
+<isocode>OM / OMN</isocode>
+<population>2.967.717</population>
+<areakm>212.460</areakm>
+</Oman>
+
+<Pakistan>
+<code>92</code>
+<isocode>PK / PAK</isocode>
+<population>184.404.791</population>
+<areakm>803.940</areakm>
+</Pakistan>
+
+<Palau>
+<code>680</code>
+<isocode>PW / PLW</isocode>
+<population>19.907</population>
+<areakm>458</areakm>
+</Palau>
+
+<Palestine>
+<code>970</code>
+<isocode>PS / PSE</isocode>
+<population>3.800.000</population>
+<areakm>5.970</areakm>
+</Palestine>
+
+<Panama>
+<code>507</code>
+<isocode>PA / PAN</isocode>
+<population>3.410.676</population>
+<areakm>78.200</areakm>
+</Panama>
+
+<Papua-New-Guinea>
+<code>675</code>
+<isocode>PG / PNG</isocode>
+<population>6.064.515</population>
+<areakm>462.840</areakm>
+</Papua-New-Guinea>
+
+<Paraguay>
+<code>595</code>
+<isocode>PY / PRY</isocode>
+<population>6.375.830</population>
+<areakm>406.750</areakm>
+</Paraguay>
+
+<Peru>
+<code>51</code>
+<isocode>PE / PER</isocode>
+<population>29.907.003</population>
+<areakm>1.285.220</areakm>
+</Peru>
+
+<Philippines>
+<code>63</code>
+<isocode>PH / PHL</isocode>
+<population>99.900.177</population>
+<areakm>300.000</areakm>
+</Philippines>
+
+<Pitcairn>
+<code>64</code>
+<isocode>PN / PCN</isocode>
+<population>46</population>
+<areakm>47</areakm>
+</Pitcairn>
+
+<Poland>
+<code>48</code>
+<isocode>PL / POL</isocode>
+<population>38.500.000</population>
+<areakm>312.685</areakm>
+</Poland>
+
+<Portugal>
+<code>351</code>
+<isocode>PT / PRT</isocode>
+<population>10.676.000</population>
+<areakm>92.391</areakm>
+</Portugal>
+
+<Puerto-Rico>
+<code>1-787, 1-939</code>
+<isocode>PR / PRI</isocode>
+<population>3.916.632</population>
+<areakm>9.104</areakm>
+</Puerto-Rico>
+
+<Qatar>
+<code>974</code>
+<isocode>QA / QAT</isocode>
+<population>840.926</population>
+<areakm>11.437</areakm>
+</Qatar>
+
+<Republic-Of-The-Congo>
+<code>242</code>
+<isocode>CG / COG</isocode>
+<population>3.039.126</population>
+<areakm>342.000</areakm>
+</Republic-Of-The-Congo>
+
+<Reunion>
+<code>262</code>
+<isocode>RE / REU</isocode>
+<population>776.948</population>
+<areakm>2.517</areakm>
+</Reunion>
+
+<Romania>
+<code>40</code>
+<isocode>RO / ROU</isocode>
+<population>21.959.278</population>
+<areakm>237.500</areakm>
+</Romania>
+
+<Russia>
+<code>7</code>
+<isocode>RU / RUS</isocode>
+<population>140.702.000</population>
+<areakm>17.100.000</areakm>
+</Russia>
+
+<Rwanda>
+<code>250</code>
+<isocode>RW / RWA</isocode>
+<population>11.055.976</population>
+<areakm>26.338</areakm>
+</Rwanda>
+
+<Saint-Barthelemy>
+<code>590</code>
+<isocode>BL / BLM</isocode>
+<population>8.450</population>
+<areakm>21</areakm>
+</Saint-Barthelemy>
+
+<Saint-Helena>
+<code>290</code>
+<isocode>SH / SHN</isocode>
+<population>7.460</population>
+<areakm>410</areakm>
+</Saint-Helena>
+
+<Saint-Kitts-And-Nevis>
+<code>1-869</code>
+<isocode>KN / KNA</isocode>
+<population>51.134</population>
+<areakm>261</areakm>
+</Saint-Kitts-And-Nevis>
+
+<Saint-Lucia>
+<code>1-758</code>
+<isocode>LC / LCA</isocode>
+<population>160.922</population>
+<areakm>616</areakm>
+</Saint-Lucia>
+
+<Saint-Martin>
+<code>590</code>
+<isocode>MF / MAF</isocode>
+<population>35.925</population>
+<areakm>53</areakm>
+</Saint-Martin>
+
+<Saint-Pierre-And-Miquelon>
+<code>508</code>
+<isocode>PM / SPM</isocode>
+<population>7.012</population>
+<areakm>242</areakm>
+</Saint-Pierre-And-Miquelon>
+
+<Saint-Vincent-And-The-Grenadines>
+<code>1-784</code>
+<isocode>VC / VCT</isocode>
+<population>104.217</population>
+<areakm>389</areakm>
+</Saint-Vincent-And-The-Grenadines>
+
+<Samoa>
+<code>685</code>
+<isocode>WS / WSM</isocode>
+<population>192.001</population>
+<areakm>2.944</areakm>
+</Samoa>
+
+<San-Marino>
+<code>378</code>
+<isocode>SM / SMR</isocode>
+<population>31.477</population>
+<areakm>61</areakm>
+</San-Marino>
+
+<Sao-Tome-And-Principe>
+<code>239</code>
+<isocode>ST / STP</isocode>
+<population>175.808</population>
+<areakm>1.001</areakm>
+</Sao-Tome-And-Principe>
+
+<Saudi-Arabia>
+<code>966</code>
+<isocode>SA / SAU</isocode>
+<population>25.731.776</population>
+<areakm>1.960.582</areakm>
+</Saudi-Arabia>
+
+<Senegal>
+<code>221</code>
+<isocode>SN / SEN</isocode>
+<population>12.323.252</population>
+<areakm>196.190</areakm>
+</Senegal>
+
+<Serbia>
+<code>381</code>
+<isocode>RS / SRB</isocode>
+<population>7.344.847</population>
+<areakm>88.361</areakm>
+</Serbia>
+
+<Seychelles>
+<code>248</code>
+<isocode>SC / SYC</isocode>
+<population>88.340</population>
+<areakm>455</areakm>
+</Seychelles>
+
+<Sierra-Leone>
+<code>232</code>
+<isocode>SL / SLE</isocode>
+<population>5.245.695</population>
+<areakm>71.740</areakm>
+</Sierra-Leone>
+
+<Singapore>
+<code>65</code>
+<isocode>SG / SGP</isocode>
+<population>4.701.069</population>
+<areakm>693</areakm>
+</Singapore>
+
+<Sint-Maarten>
+<code>1-721</code>
+<isocode>SX / SXM</isocode>
+<population>37.429</population>
+<areakm>34</areakm>
+</Sint-Maarten>
+
+<Slovakia>
+<code>421</code>
+<isocode>SK / SVK</isocode>
+<population>5.455.000</population>
+<areakm>48.845</areakm>
+</Slovakia>
+
+<Slovenia>
+<code>386</code>
+<isocode>SI / SVN</isocode>
+<population>2.007.000</population>
+<areakm>20.273</areakm>
+</Slovenia>
+
+<Solomon-Islands>
+<code>677</code>
+<isocode>SB / SLB</isocode>
+<population>559.198</population>
+<areakm>28.450</areakm>
+</Solomon-Islands>
+
+<Somalia>
+<code>252</code>
+<isocode>SO / SOM</isocode>
+<population>10.112.453</population>
+<areakm>637.657</areakm>
+</Somalia>
+
+<South-Africa>
+<code>27</code>
+<isocode>ZA / ZAF</isocode>
+<population>49.000.000</population>
+<areakm>1.219.912</areakm>
+</South-Africa>
+
+<South-Korea>
+<code>27</code>
+<isocode>ZA / ZAF</isocode>
+<population>49.000.000</population>
+<areakm>1.219.912</areakm>
+</South-Korea>
+
+<South-Korea>
+<code>82</code>
+<isocode>KR / KOR</isocode>
+<population>48.422.644</population>
+<areakm>98.480</areakm>
+</South-Korea>
+
+<South-Sudan>
+<code>211</code>
+<isocode>SS / SSD</isocode>
+<population>8.260.490</population>
+<areakm>644.329</areakm>
+</South-Sudan>
+
+<Spain>
+<code>34</code>
+<isocode>ES / ESP</isocode>
+<population>46.505.963</population>
+<areakm>504.782</areakm>
+</Spain>
+
+<Sri-Lanka>
+<code>94</code>
+<isocode>LK / LKA</isocode>
+<population>21.513.990</population>
+<areakm>65.610</areakm>
+</Sri-Lanka>
+
+<Sudan>
+<code>249</code>
+<isocode>SD / SDN</isocode>
+<population>35.000.000</population>
+<areakm>1.861.484</areakm>
+</Sudan>
+
+<Suriname>
+<code>597</code>
+<isocode>SR / SUR</isocode>
+<population>492.829</population>
+<areakm>163.270</areakm>
+</Suriname>
+
+<Svalbard-And-Jan-Mayen>
+<code>47</code>
+<isocode>SJ / SJM</isocode>
+<population>2.550</population>
+<areakm>62.049</areakm>
+</Svalbard-And-Jan-Mayen>
+
+<Swaziland>
+<code>268</code>
+<isocode>SZ / SWZ</isocode>
+<population>1.354.051</population>
+<areakm>17.363</areakm>
+</Swaziland>
+
+<Sweden>
+<code>46</code>
+<isocode>SE / SWE</isocode>
+<population>9.555.893</population>
+<areakm>449.964</areakm>
+</Sweden>
+
+<Switzerland>
+<code>41</code>
+<isocode>CH / CHE</isocode>
+<population>7.581.000</population>
+<areakm>41.290</areakm>
+</Switzerland>
+
+<Syria>
+<code>963</code>
+<isocode>SY / SYR</isocode>
+<population>22.198.110</population>
+<areakm>185.180</areakm>
+</Syria>
+
+<Taiwan>
+<code>886</code>
+<isocode>TW / TWN</isocode>
+<population>22.894.384</population>
+<areakm>35.980</areakm>
+</Taiwan>
+
+<Tajikistan>
+<code>992</code>
+<isocode>TJ / TJK</isocode>
+<population>7.487.489</population>
+<areakm>143.100</areakm>
+</Tajikistan>
+
+<Thailand>
+<code>66</code>
+<isocode>TH / THA</isocode>
+<population>67.089.500</population>
+<areakm>514.000</areakm>
+</Thailand>
+
+<Togo>
+<code>228</code>
+<isocode>TG / TGO</isocode>
+<population>6.587.239</population>
+<areakm>56.785</areakm>
+</Togo>
+
+<Tokelau>
+<code>690</code>
+<isocode>TK / TKL</isocode>
+<population>1.466</population>
+<areakm>10</areakm>
+</Tokelau>
+
+<Tonga>
+<code>676</code>
+<isocode>TO / TON</isocode>
+<population>122.580</population>
+<areakm>748</areakm>
+</Tonga>
+
+<Trinidad-And-Tobago>
+<code>1-868</code>
+<isocode>TT / TTO</isocode>
+<population>1.228.691</population>
+<areakm>5.128</areakm>
+</Trinidad-And-Tobago>
+
+<Tunisia>
+<code>216</code>
+<isocode>TN / TUN</isocode>
+<population>10.589.025</population>
+<areakm>163.610</areakm>
+</Tunisia>
+
+<TURKEY>
+<code>90</code>
+<isocode>TR / TUR</isocode>
+<population>79,512.43</population>
+<areakm>783.562</areakm>
+</TURKEY>
+
+<Turkmenistan>
+<code>993</code>
+<isocode>TM / TKM</isocode>
+<population>4.940.916</population>
+<areakm>488.100</areakm>
+</Turkmenistan>
+
+<Turks-And-Caicos-Islands>
+<code>1-649</code>
+<isocode>TC / TCA</isocode>
+<population>20.556</population>
+<areakm>430</areakm>
+</Turks-And-Caicos-Islands>
+
+<Tuvalu>
+<code>688</code>
+<isocode>TV / TUV</isocode>
+<population>10.472</population>
+<areakm>26</areakm>
+</Tuvalu>
+
+<U.S.-Virgin-Islands>
+<code>1-340</code>
+<isocode>VI / VIR</isocode>
+<population>108.708</population>
+<areakm>352</areakm>
+</U.S.-Virgin-Islands>
+
+<Uganda>
+<code>256</code>
+<isocode>UG / UGA</isocode>
+<population>33.398.682</population>
+<areakm>236.040</areakm>
+</Uganda>
+
+<Ukraine>
+<code>380</code>
+<isocode>UA / UKR</isocode>
+<population>45.415.596</population>
+<areakm>603.700</areakm>
+</Ukraine>
+
+<United-Arab-Emirates>
+<code>971</code>
+<isocode>AE / ARE</isocode>
+<population>4.975.593</population>
+<areakm>82.880</areakm>
+</United-Arab-Emirates>
+
+<United-Kingdom>
+<code>44</code>
+<isocode>GB / GBR</isocode>
+<population>62.348.447</population>
+<areakm>244.820</areakm>
+</United-Kingdom>
+
+<United-States>
+<code>1</code>
+<isocode>US / USA</isocode>
+<population>310.232.863</population>
+<areakm>9.629.091</areakm>
+</United-States>
+
+<Uruguay>
+<code>598</code>
+<isocode>UY / URY</isocode>
+<population>33.477.000</population>
+<areakm>176.220</areakm>
+</Uruguay>
+
+<Uzbekistan>
+<code>998</code>
+<isocode>UZ / UZB</isocode>
+<population>327.865.738</population>
+<areakm>447.400</areakm>
+</Uzbekistan>
+
+<Vanuatu>
+<code>678</code>
+<isocode>VU / VUT</isocode>
+<population>221.552</population>
+<areakm>12.200</areakm>
+</Vanuatu>
+
+<Vatican>
+<code>379</code>
+<isocode>VA / VAT</isocode>
+<population>921</population>
+<areakm>0</areakm>
+</Vatican>
+
+<Venezuela>
+<code>58</code>
+<isocode>VE / VEN</isocode>
+<population>27.223.228</population>
+<areakm>912.050</areakm>
+</Venezuela>
+
+<Vietnam>
+<code>84</code>
+<isocode>VN / VNM</isocode>
+<population>89.571.130</population>
+<areakm>329.560</areakm>
+</Vietnam>
+
+<Wallis-And-Futuna>
+<code>681</code>
+<isocode>WF / WLF</isocode>
+<population>16.025</population>
+<areakm>274</areakm>
+</Wallis-And-Futuna>
+
+<Western-Sahara>
+<code>212</code>
+<isocode>WEH / ESH</isocode>
+<population>273.008</population>
+<areakm>266.000</areakm>
+</Western-Sahara>
+
+<Yemen>
+<code>967</code>
+<isocode>YE / YEM</isocode>
+<population>23.495.361</population>
+<areakm>527.970</areakm>
+</Yemen>
+
+<Zambia>
+<code>260</code>
+<isocode>ZM / ZMB</isocode>
+<population>13.460.305</population>
+<areakm>752.614</areakm>
+</Zambia>
+
+<Zimbabwe>
+<code>263</code>
+<isocode>ZW / ZWE</isocode>
+<population>11.651.858</population>
+<areakm>390.580</areakm>
+</Zimbabwe>
+
+
+</Countries>
+
